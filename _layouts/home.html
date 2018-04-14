@@ -1,0 +1,30 @@
+--- 
+layout: default 
+---
+
+<h1>{{site.title}}</h1>
+
+<ul class='menu-root'>
+
+    {% for card in site.data.api %}
+    <li style="background-color: #{{ card.color }}">
+        <a class='section-link active' data-scroll=''>
+            <small>{{card.sub-title}}</small>
+            {{card.title}}
+        </a>
+        <ul class='menu-sub'>
+            {% for item in card.items %}
+            <li>
+                <a class='section-link' data-scroll='' href='{{item.url}}' target="_new">
+                    {{item.title}} {% if item.tag %}
+                    <var>
+                        {{item.tag}}
+                    </var>
+                    {% endif %}
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </li>
+    {% endfor %}
+</ul>
