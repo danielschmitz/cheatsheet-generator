@@ -1,47 +1,160 @@
-- title: Config
-  sub-title: Global
+- title: Card 1
+  sub-title: Sub Title
   color: C594C5
   items:
-      - title: silent
+      - title: Item 1
+        sub-title: A short description
+        url: http://www.google.com
+
+      - title: Item 2
+        sub-title: A short description
+        url: http://www.google.com
+
+      - title: A short description
         sub-title: 
-        url: https://vuejs-tips.github.io/cheatsheet/#silent
+        url: http://www.google.com
 
-      - title: sileoptionMergeStrategiesnt
-        sub-title: 
-        tag: 
-        url: https://vuejs-tips.github.io/cheatsheet/#optionMergeStrategies
-      
-      - title: silent
-        sub-title: Silent variable
-        tag: foo
-        url: mysite.com/silent
-
-      - title: silent
-        sub-title: Silent variable
-        tag: foo
-        url: mysite.com/silent
-
-        
-- title: Config 2
-  sub-title: Global 2
-  color: 778899
+- title: Card 2
+  sub-title: Sub Title
+  color: F99157
   items:
-      - title: silent 2
-        sub-title: Silent variable
-        tag: foo
-        url: mysite.com/silent
+      - title: Item 1
+        sub-title: A short description
+        url: http://www.google.com
 
-      - title: silent 2
-        sub-title: Silent variable
-        tag: foo
-        url: mysite.com/silent
-      
-      - title: silent 2
-        sub-title: Silent variable
-        tag: foo
-        url: mysite.com/silent
+      - title: Item 2
+        sub-title: A short description
+        url: http://www.google.com
 
-      - title: silent 2
-        sub-title: Silent variable
-        tag: foo
-        url: mysite.com/silent
+      - title: A short description
+        sub-title: 
+        url: http://www.google.com
+
+- title: Card 3
+  sub-title: Sub Title
+  color: 5FB3B3
+  items:
+      - title: Item 1
+        sub-title: A short description
+        url: http://www.google.com
+
+      - title: Item 2
+        sub-title: A short description
+        url: http://www.google.com
+
+      - title: A short description
+        sub-title: 
+        url: http://www.google.com
+
+- title: Card 4
+  sub-title: Sub Title
+  color: 6699CC
+  items:
+      - title: Item 1
+        sub-title: A short description
+        url: http://www.google.com
+
+      - title: Item 2
+        sub-title: A short description
+        url: http://www.google.com
+
+      - title: A short description
+        sub-title: 
+        url: http://www.google.com
+
+- title: Card 5
+  sub-title: Sub Title
+  color: EC5f67
+  items:
+      - title: Item 1
+        sub-title: A short description
+        url: http://www.google.com
+
+      - title: Item 2
+        sub-title: A short description
+        url: http://www.google.com
+
+      - title: A short description
+        sub-title: 
+        url: http://www.google.com
+
+- title: Card 6
+  sub-title: Sub Title
+  color: 8D89D1
+  items:
+      - title: Item 1
+        sub-title: A short description
+        url: http://www.google.com
+
+      - title: Item 2
+        sub-title: A short description
+        url: http://www.google.com
+
+      - title: A short description
+        sub-title: 
+        url: http://www.google.com
+
+- title: Card 7
+  sub-title: Sub Title
+  color: EAB853
+  items:
+      - title: Item 1
+        sub-title: A short description
+        url: http://www.google.com
+
+      - title: Item 2
+        sub-title: A short description
+        url: http://www.google.com
+
+      - title: A short description
+        sub-title: 
+        url: http://www.google.com
+
+- title: Card 8
+  sub-title: Sub Title
+  color: 89B784
+  items:
+      - title: Item 1
+        sub-title: A short description
+        url: http://www.google.com
+
+      - title: Item 2
+        sub-title: A short description
+        url: http://www.google.com
+
+      - title: A short description
+        sub-title: 
+        url: http://www.google.com
+
+- title: Card 9
+  sub-title: Sub Title
+  color: 5FB3B3
+  items:
+      - title: Item 1
+        sub-title: A short description
+        url: http://www.google.com
+
+      - title: Item 2
+        sub-title: A short description
+        url: http://www.google.com
+
+      - title: A short description
+        sub-title: 
+        url: http://www.google.com
+
+- title: Card 10
+  sub-title: Sub Title
+  color: EC5f67
+  items:
+      - title: Item 1
+        sub-title: A short description
+        url: http://www.google.com
+
+      - title: Item 2
+        sub-title: A short description
+        url: http://www.google.com
+
+      - title: A short description
+        sub-title: 
+        url: http://www.google.com
+ 
