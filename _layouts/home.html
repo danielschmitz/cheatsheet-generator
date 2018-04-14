@@ -16,7 +16,9 @@ layout: default
             {% for item in card.items %}
             <li>
                 <a class='section-link' data-scroll='' href='{{item.url}}' target="_new">
-                    {{item.title}} {% if item.tag %}
+                    {{item.title}}
+                    <small>{{item.sub-title}}</small>
+                    {% if item.tag %}
                     <var>
                         {{item.tag}}
                     </var>

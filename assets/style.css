@@ -28,7 +28,7 @@ html, body {
   
   
   .menu-root > li {
-    background-color: #eee;
+    background-color: #aaa;
     padding: 10px;
     width: 100%;
     margin-bottom: 5px;
@@ -49,10 +49,10 @@ html, body {
   }
   
   .menu-root ul li a small {
-    color: #C0C5CE;
+    color: #ddd;
     pointer-events: none;
   }
-  
+
   .menu-root > li > a::first-line {
     font-size: 18px;
     color: black;
