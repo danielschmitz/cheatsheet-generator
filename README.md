@@ -45,3 +45,12 @@ becames:
 <p align="center">
 <img src="https://i.imgur.com/telUVYy.png">
 </p>
+
+
+## Usage
+
+- fork this project
+- clone in your account
+- edit `data/api.yml`
+- Commit & push
+- Go to project settings and enable GitHub Pages
